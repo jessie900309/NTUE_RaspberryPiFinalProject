@@ -65,13 +65,5 @@ Client.py提供用戶可在執行python檔後，按下0結束程式；按下1，
     |                           Server                            |                           Client                            |
     |:-----------------------------------------------------------:|:-----------------------------------------------------------:|
     |          [demo link](https://youtu.be/kleWXTKR9NI)          |          [demo link](https://youtu.be/CdhzDdGlTBA)          |
-    | <img width="250px" src="https://i.imgur.com/7u816EA.jpg" /> | <img width="250px" src="https://i.imgur.com/g1G1zX6.png" /> |
-* Client Shell
-    * : 0 結束程式
-    <img width="250px" src="https://i.imgur.com/ESBjOvp.png" />
-    * : 1 僅擷取資料並更新網頁圖片 / : 2 擷取資料並更新網頁圖片、可監聽按鈕切換七段顯示器顯示溫溼度
-    <img width="250px" src="https://i.imgur.com/EhHlkJ2.png" /><img width="250px" src="https://i.imgur.com/by16CVI.png" />
-    * : 1 或 : 2 的圖片輸出
-    <img width="250px" src="https://i.imgur.com/53DEVHc.jpg" /><img width="250px" src="https://i.imgur.com/cAk6xzg.jpg" />
-
+    
 
